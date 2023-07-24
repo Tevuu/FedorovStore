@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FedorovStore/static/css/main.90c3cbcb.css",
+    "main.js": "/FedorovStore/static/js/main.5e305556.js",
+    "static/media/1.jpg": "/FedorovStore/static/media/1.7823073fe2eb39386c1b.jpg",
+    "index.html": "/FedorovStore/index.html",
+    "main.90c3cbcb.css.map": "/FedorovStore/static/css/main.90c3cbcb.css.map",
+    "main.5e305556.js.map": "/FedorovStore/static/js/main.5e305556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c3cbcb.css",
+    "static/js/main.5e305556.js"
+  ]
+}
